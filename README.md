@@ -1,13 +1,13 @@
 # 🛒 Dynamic Pricing UMKM AI by Jackpoint4
 
-[![Streamlit](https://umkm-dyanamic-pricing-zmda7z6cn5zw3xngteppdx.streamlit.app/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)](https://umkm-jackpoint4.streamlit.app)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
 [![AI](https://img.shields.io/badge/AI-Random%20Forest-orange)](https://scikit-learn.org)
 
 **Sistem Penentuan Harga Dinamis Otomatis** untuk UMKM Indonesia. AI belajar dari data penjualan → rekomendasi harga real-time berdasarkan **stok + jam + hari**.
 
 ## 🎮 **DEMO LIVE**
-https://umkm-jackpoint4.streamlit.app
+[https://umkm-jackpoint4.streamlit.app](https://umkm-dyanamic-pricing-zmda7z6cn5zw3xngteppdx.streamlit.app/)
 
 ## 📱 **Fitur**
 🔹 Input: Sisa stok, jam transaksi, hari
