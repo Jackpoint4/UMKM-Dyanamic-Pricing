@@ -1,6 +1,6 @@
 # 🛒 Dynamic Pricing UMKM AI by Jackpoint4
 
-[![Streamlit](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)](https://umkm-jackpoint4.streamlit.app)
+[![Streamlit]([https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)](https://umkm-jackpoint4.streamlit.app](https://umkm-dyanamic-pricing-zmda7z6cn5zw3xngteppdx.streamlit.app/))
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
 [![AI](https://img.shields.io/badge/AI-Random%20Forest-orange)](https://scikit-learn.org)
 
